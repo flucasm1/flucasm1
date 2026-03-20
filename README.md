@@ -2,6 +2,7 @@
 
 <p align="left"> 
   👋 Olá, eu sou o Lucas
+  
   Estudante de Desenvolvimento de Sistemas na ETEC, e aprimorando meus conhecimentos com cursos na Alura.
 </p>
 
