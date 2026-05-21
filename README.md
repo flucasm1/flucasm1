@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Iniciante em Python e Javascript.**
+  📚 Linguagens: **Iniciante em Python e Javascript.**
 </p>
 
 <p align="left">
