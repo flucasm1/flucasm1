@@ -4,6 +4,7 @@
   👋 Olá, eu sou o Lucas
   
   Estudante de Desenvolvimento de Sistemas na ETEC, e aprimorando meus conhecimentos com cursos na Alura.
+  Participante do Inteli Camp Julho 2026
 </p>
 
 <p align="left">
