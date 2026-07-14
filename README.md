@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  📚 Linguagens: **Iniciante em Python e Javascript.**
+  📚 Linguagens: Iniciante em Python e Javascript.
 </p>
 
 <p align="left">
-  💼 Objetivo: **Preparando-se para o mercado de tecnologia.**
+  💼 Objetivo: Preparando-se para o mercado de tecnologia.
 </p>
 
 <p align="left">
